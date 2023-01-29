@@ -1,18 +1,16 @@
-# remainder
+# REMINDER
 
-A new Flutter project.
+Reminder is a basic project management tool that allows its users to effectively 
+maintain a project by creating projects, adding tasks within those projects, 
+adding other people as a contributor of project and communication by chatting. 
+It can be utilize by individuals too.
 
-## Getting Started
+## VERSIONS FOR HEALTHY EXPERIMENT
 
-This project is a starting point for a Flutter application.
+Flutter 3.3.10
+Dart 2.18.6
+DevTools 2.15.0
+Cloud Firestore 4.2.0
+Firebase Authentication 4.2.1
+Firebase Core 2.4.0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# remainder
-# remainder
